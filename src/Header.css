@@ -1,0 +1,10 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid lightgrey;
+}
+
+.tinder__logo{
+    color: red;
+    max-width: 2.5rem;
+}
