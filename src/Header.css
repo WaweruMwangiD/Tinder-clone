@@ -2,9 +2,15 @@
     display: flex;
     justify-content: space-between;
     border-bottom: 1px solid lightgrey;
+    align-items: center;
 }
 
-.tinder__logo{
+.header__icon{
+    padding: 10px;
+    font-size: large;
+}
+
+.tinder__icon{
     color: red;
-    max-width: 2.5rem;
+    font-size: 2rem;
 }
